@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 .adk/
 session.db
+.vscode/
