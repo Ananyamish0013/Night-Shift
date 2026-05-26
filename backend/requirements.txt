@@ -3,3 +3,10 @@ uvicorn
 httpx
 python-dotenv
 google-cloud-firestore
+google-adk
+fastapi
+uvicorn
+python-dotenv
+google-cloud-firestore
+google-cloud-aiplatform
+httpx
